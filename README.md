@@ -1,3 +1,4 @@
-menu with html & css
+html , css طراحی منو با 
 
-use Font Awesome for icons.
+
+ استفاده شده استFont Awesome برای ایکون ها از
